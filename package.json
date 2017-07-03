@@ -1,0 +1,17 @@
+{
+  "name": "kanro.quickstart",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "scripts": {
+    "start": "node bin/index.js"
+  },
+  "author": "higan@live.cn",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "kanro": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.7"
+  }
+}
